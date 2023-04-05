@@ -13,14 +13,8 @@ Here are some of the projects I have been working on:
 - [GetSnapped.gg](https://github.com/getsnappedgg/getsnapped-web): A deck builder third party tool for the mobile game Marvel Snap
 - [MonkeypoxViz](https://github.com/MPXVIZ/monkeypox-data-viz): A server that populates a redis store with monkeypox cases from a separate repository, and returns it to a client.
 
+
+
 <!--
 **a-hsu/a-hsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
 -->
