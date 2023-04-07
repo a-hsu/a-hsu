@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About Me
 Hello there! My name is Andrew Hsu, and this is my Github intro page. I am a Software Engineer based in New York, and I am passionate about working across the stack to deliver cool features for your products.
 
